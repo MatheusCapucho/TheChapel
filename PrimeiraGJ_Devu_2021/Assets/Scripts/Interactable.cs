@@ -12,7 +12,7 @@ public class Interactable : MonoBehaviour
     {
         if (isInRange)
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetKeyDown(KeyCode.Space))
             {
                 for (int i = 0; i < actions.Length; i++)
                 { 
