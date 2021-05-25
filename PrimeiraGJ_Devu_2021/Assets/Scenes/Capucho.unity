@@ -2063,7 +2063,7 @@ GameObject:
   - component: {fileID: 1525183238}
   - component: {fileID: 1525183237}
   m_Layer: 0
-  m_Name: teste
+  m_Name: testeTexto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
