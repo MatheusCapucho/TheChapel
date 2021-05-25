@@ -11,10 +11,15 @@ public class Movement : MonoBehaviour
     private float speed = 5f;
     private Vector3 input;
 
+    private bool isFacingRight = true;
+
+    private Animator anim;
+
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -26,6 +31,27 @@ public class Movement : MonoBehaviour
     private void FixedUpdate()
     {
         transform.position += input * speed * Time.fixedDeltaTime;
+
+        anim.SetInteger("xInput", Mathf.Abs((int)input.x));
+
+        if (input.x < 0 && isFacingRight)
+        {
+            Flip();
+        }
+        if (input.x > 0 && !isFacingRight)
+        {
+            Flip();
+        }
+
+    }
+
+    private void Flip()
+    {
+        isFacingRight = !isFacingRight;
+        Vector3 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
+
     }
 
 }
