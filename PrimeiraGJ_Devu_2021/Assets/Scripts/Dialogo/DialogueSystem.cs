@@ -9,6 +9,7 @@ public class DialogueSystem : MonoBehaviour
     public Text dialogueText;
 
     private Queue<string> frases;
+    private Queue<AudioClip> audios; // colocar audios aqui
 
     public Animator anim;
 
