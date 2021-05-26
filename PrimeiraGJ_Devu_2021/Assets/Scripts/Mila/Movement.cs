@@ -9,28 +9,45 @@ public class Movement : MonoBehaviour
 
     [SerializeField]
     private float speed = 5f;
+    [SerializeField]
+    public float runSpeed = 6f;
+    private float actualSpeed;
+    [SerializeField]
+    private float custoStamina = 2f;
+
     private Vector3 input;
 
     private bool isFacingRight = true;
 
     private Animator anim;
 
+    private StaminaBar staminaBar;
+
 
     void Start()
     {
+        staminaBar = GetComponent<StaminaBar>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        actualSpeed = speed;
     }
 
     void Update()
     {
         input = new Vector3(Input.GetAxisRaw("Horizontal"), 0, 0);
+
+        if (Input.GetKey(KeyCode.LeftShift) && input.x != 0)
+        {
+            actualSpeed = runSpeed;
+            staminaBar.UseStamina(custoStamina);        
+        }
  
     }
 
     private void FixedUpdate()
     {
-        transform.position += input * speed * Time.fixedDeltaTime;
+        transform.position += input * actualSpeed * Time.fixedDeltaTime;
+        actualSpeed = speed;
 
         anim.SetInteger("xInput", Mathf.Abs((int)input.x));
 
