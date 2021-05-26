@@ -9,7 +9,7 @@ public class StaminaBar : MonoBehaviour
     public Slider slider;
 
     public float maxStamina;
-    private float currentStamina;
+    public float currentStamina;
 
     private Coroutine regen;
 
@@ -45,7 +45,7 @@ public class StaminaBar : MonoBehaviour
 
    private IEnumerator RegenStamina()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1.5f);
 
         while(currentStamina < maxStamina)
         {

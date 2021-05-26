@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: e35a4d25930a84c4882efb91bb4dc967
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6956634237166347580
+    second: mila_lamparina-Sheet_0
+  - first:
+      213: -1722327645311929103
+    second: mila_lamparina-Sheet_1
+  - first:
+      213: -4463621759220282339
+    second: mila_lamparina-Sheet_2
+  - first:
+      213: -1062687965731870423
+    second: mila_lamparina-Sheet_3
+  - first:
+      213: -885418685141164844
+    second: mila_lamparina-Sheet_4
+  - first:
+      213: 2379056595345982204
+    second: mila_lamparina-Sheet_5
+  - first:
+      213: -3830677414314704939
+    second: mila_lamparina-Sheet_6
+  - first:
+      213: -6632945371475647523
+    second: mila_lamparina-Sheet_7
+  - first:
+      213: 7407860081156620455
+    second: mila_lamparina-Sheet_8
+  - first:
+      213: 734124937849067088
+    second: mila_lamparina-Sheet_9
+  - first:
+      213: 8310385860501101424
+    second: mila_lamparina-Sheet_10
+  - first:
+      213: -885775709279100194
+    second: mila_lamparina-Sheet_11
+  - first:
+      213: -6077076661619925782
+    second: mila_lamparina-Sheet_12
+  - first:
+      213: 5063195832985335479
+    second: mila_lamparina-Sheet_13
+  - first:
+      213: -4778571300637465062
+    second: mila_lamparina-Sheet_14
+  - first:
+      213: 8941766874484107059
+    second: mila_lamparina-Sheet_15
+  - first:
+      213: -1164653968334319167
+    second: mila_lamparina-Sheet_16
+  - first:
+      213: -7416184033898890480
+    second: mila_lamparina-Sheet_17
+  - first:
+      213: -1669711274195354320
+    second: mila_lamparina-Sheet_18
+  - first:
+      213: 3610686843989251276
+    second: mila_lamparina-Sheet_19
+  - first:
+      213: 7025191146248007498
+    second: mila_lamparina-Sheet_20
+  - first:
+      213: -7123487897882658645
+    second: mila_lamparina-Sheet_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ee9a1bfdea8060800000000000000
+      internalID: 6956634237166347580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f852c1201918e0800000000000000
+      internalID: -1722327645311929103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c88f5c8a70e02c0800000000000000
+      internalID: -4463621759220282339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929287fece29041f0800000000000000
+      internalID: -1062687965731870423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcdaa2a56c56b3f0800000000000000
+      internalID: -885418685141164844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c5226e5b140120800000000000000
+      internalID: 2379056595345982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff8aeff23b6dac0800000000000000
+      internalID: -3830677414314704939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd36f96d35b03f3a0800000000000000
+      internalID: -6632945371475647523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0032bce710ec660800000000000000
+      internalID: 7407860081156620455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056df3dcdb2203a00800000000000000
+      internalID: 734124937849067088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd899e8eb645370800000000000000
+      internalID: 8310385860501101424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2efb97fa715b3f0800000000000000
+      internalID: -885775709279100194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd35759f2e9aba0800000000000000
+      internalID: -6077076661619925782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6345db8c5144640800000000000000
+      internalID: 5063195832985335479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a0a358ba1fadb0800000000000000
+      internalID: -4778571300637465062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337eaf9c899871c70800000000000000
+      internalID: 8941766874484107059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11f2be26156dfe0800000000000000
+      internalID: -1164653968334319167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b788ee9eb641990800000000000000
+      internalID: -7416184033898890480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dfe10517ef3d8e0800000000000000
+      internalID: -1669711274195354320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d72bed8cbb1230800000000000000
+      internalID: 3610686843989251276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe45f502e7e7160800000000000000
+      internalID: 7025191146248007498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mila_lamparina-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f8ecaf79442d90800000000000000
+      internalID: -7123487897882658645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

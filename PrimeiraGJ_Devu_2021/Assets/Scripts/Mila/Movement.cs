@@ -36,10 +36,15 @@ public class Movement : MonoBehaviour
     {
         input = new Vector3(Input.GetAxisRaw("Horizontal"), 0, 0);
 
-        if (Input.GetKey(KeyCode.LeftShift) && input.x != 0)
+        if (staminaBar.currentStamina > 0 && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
         {
             actualSpeed = runSpeed;
+            anim.SetBool("isRunning", true);
             staminaBar.UseStamina(custoStamina);        
+        } else
+        {
+            actualSpeed = speed;
+            anim.SetBool("isRunning", false);
         }
  
     }
@@ -47,7 +52,7 @@ public class Movement : MonoBehaviour
     private void FixedUpdate()
     {
         transform.position += input * actualSpeed * Time.fixedDeltaTime;
-        actualSpeed = speed;
+       
 
         anim.SetInteger("xInput", Mathf.Abs((int)input.x));
 
