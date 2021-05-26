@@ -6,8 +6,8 @@ using UnityEngine.Events;
 public class Interactable : MonoBehaviour
 {
     public bool isInRange;
-    public KeyCode botao; // setar E para interagir e pular dialogo, W pra entrar na casa
-    public UnityEvent[] actions; // setar no inspector
+    public KeyCode botao; 
+    public UnityEvent[] actions;
 
     void Update()
     {
@@ -15,7 +15,9 @@ public class Interactable : MonoBehaviour
         {
             if (Input.GetKeyDown(botao))
             {
+               
                 for (int i = 0; i < actions.Length; i++)
+
                 { 
                     actions[i].Invoke();
                 }         
