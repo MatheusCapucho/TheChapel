@@ -18,6 +18,7 @@ public class Movement : MonoBehaviour
     private Vector3 input;
 
     private bool isFacingRight = true;
+    private bool canRun = false;
 
     private Animator anim;
 
@@ -30,13 +31,19 @@ public class Movement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         actualSpeed = speed;
+
+        if (this.gameObject.CompareTag("Player"))
+        {
+            canRun = true;
+        }
+
     }
 
     void Update()
     {
         input = new Vector3(Input.GetAxisRaw("Horizontal"), 0, 0);
 
-        if (staminaBar.currentStamina > 0 && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
+        if (canRun && staminaBar.currentStamina > 0 && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
         {
             actualSpeed = runSpeed;
             anim.SetBool("isRunning", true);
