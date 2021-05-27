@@ -24,7 +24,7 @@ public class TextInput : GameFlow
         if (input.text == resposta || input.text == resposta2)
         {
             sceneAfterMinigame++;
-            totalKeys++;
+            olhoAmarelo = true;
             StartCoroutine(MudarCena(sceneAfterMinigame));
         }
         else
