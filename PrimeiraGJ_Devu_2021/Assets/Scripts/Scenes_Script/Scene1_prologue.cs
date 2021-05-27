@@ -5,30 +5,28 @@ using UnityEngine.SceneManagement;
 
 public class Scene1_prologue : GameFlow
 {
-    public AudioSource audioSrc;
-    public AudioClip[] audioClip;
+    private Animator anim;
+    public GameObject[] audioHandler;
 
     private int count = 0;
+
+    private void Awake()
+    {
+        anim = GetComponent<Animator>();
+    }
     void Start()
     {
-        audioSrc = GetComponent<AudioSource>();
         prologueScenes++;
-
         StartCoroutine(Prologo());
-
     }
 
     IEnumerator Prologo()
     {
-        audioSrc.PlayOneShot(audioClip[count]); count++;
-        yield return new WaitForSeconds(1f); // tempo relativo a todos os audios da mila
+        audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
+        audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
 
-        //fade to black
-        yield return new WaitForSeconds(1f);
-        //audio do carro e mila
-        yield return new WaitForSeconds(1f);
 
-        SceneManager.LoadScene(prologueScenes);
-
+        //SceneManager.LoadScene(prologueScenes);
+        yield return new WaitForSeconds (1f);
     }
 }
