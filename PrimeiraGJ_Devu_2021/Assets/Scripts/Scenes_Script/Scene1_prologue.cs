@@ -5,16 +5,22 @@ using UnityEngine.SceneManagement;
 
 public class Scene1_prologue : GameFlow
 {
+    public AudioSource audioSrc;
+    public AudioClip[] audioClip;
+
+    private int count = 0;
     void Start()
     {
+        audioSrc = GetComponent<AudioSource>();
         prologueScenes++;
+
         StartCoroutine(Prologo());
+
     }
 
     IEnumerator Prologo()
     {
-        //audios da mila
-
+        audioSrc.PlayOneShot(audioClip[count]); count++;
         yield return new WaitForSeconds(1f); // tempo relativo a todos os audios da mila
 
         //fade to black
