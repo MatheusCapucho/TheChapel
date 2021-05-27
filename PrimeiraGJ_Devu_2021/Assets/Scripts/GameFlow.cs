@@ -9,9 +9,4 @@ public class GameFlow : MonoBehaviour
     public static int totalKeys = 0;
     public static int prologueScenes = 0;
 
-
-
-
-
-
 }
