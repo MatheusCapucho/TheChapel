@@ -23,10 +23,15 @@ public class Scene1_prologue : GameFlow
     IEnumerator Prologo()
     {
         audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
+        yield return new WaitForSeconds(1f);
         audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
+        yield return new WaitForSeconds(1f);
 
 
         //SceneManager.LoadScene(prologueScenes);
         yield return new WaitForSeconds (1f);
+
     }
+
+
 }

@@ -13,14 +13,14 @@ public class AudioHandler : MonoBehaviour
         audioClip = GetComponent<AudioClip>();
     }
 
-    private void PlayAudio()
+    public void PlayAudio()
     {
         audioSrc.Play();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("PlayerM"))
         {
             audioSrc.PlayOneShot(audioClip);
         }
