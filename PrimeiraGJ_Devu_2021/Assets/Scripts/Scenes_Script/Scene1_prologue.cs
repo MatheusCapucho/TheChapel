@@ -50,8 +50,10 @@ public class Scene1_prologue : GameFlow
 
         audioHandler[count].SetActive(true); count++; //mila a pe8
         yield return new WaitForSeconds(6f);
-        audioHandler[count].SetActive(true); count++; //carro9
+        audioHandler[count].SetActive(true);  //carro9
         yield return new WaitForSeconds(3f);
+        audioHandler[count].SetActive(false);
+        count++;
         audioHandler[count].SetActive(true); count++; //carro10
         yield return new WaitForSeconds(6f);
 
