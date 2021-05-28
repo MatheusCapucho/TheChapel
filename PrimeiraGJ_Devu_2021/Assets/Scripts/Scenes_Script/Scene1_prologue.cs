@@ -23,9 +23,8 @@ public class Scene1_prologue : GameFlow
 
     IEnumerator Prologo()
     {
-        //audioHandler[count].SetActive(true);
-        count++; //mila0
-       // yield return new WaitForSeconds(21.5f);
+        audioHandler[count].SetActive(true); count++;
+        yield return new WaitForSeconds(33.4f);
         audioHandler[count].SetActive(true); count++; //mila1
         yield return new WaitForSeconds(21.5f);
         audioHandler[count].SetActive(true); count++; //mila2
