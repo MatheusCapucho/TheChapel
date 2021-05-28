@@ -38,6 +38,7 @@ public class Scene1_prologue : GameFlow
         yield return new WaitForSeconds(5f);
   
         imageFade.SetBool("Fade", true);
+        this.gameObject.GetComponent<AudioSource>().Stop();
 
         yield return new WaitForSeconds(1f);
 
@@ -45,12 +46,14 @@ public class Scene1_prologue : GameFlow
         yield return new WaitForSeconds(2f);
         audioHandler[count].SetActive(true); count++; //carro7
         yield return new WaitForSeconds(2f);
+
+
         audioHandler[count].SetActive(true); count++; //mila a pe8
         yield return new WaitForSeconds(6f);
         audioHandler[count].SetActive(true); count++; //carro9
         yield return new WaitForSeconds(3f);
         audioHandler[count].SetActive(true); count++; //carro10
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(6f);
 
         SceneManager.LoadScene(prologueScenes);
     }

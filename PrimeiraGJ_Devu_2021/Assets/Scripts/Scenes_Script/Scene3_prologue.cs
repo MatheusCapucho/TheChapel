@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Scene3_prologue : GameFlow
 {
@@ -15,6 +16,7 @@ public class Scene3_prologue : GameFlow
     private void Start()
     {
         anim.SetBool("Fade", false);
+        prologueScenes = 4;
     }
 
     public void NextScene()
@@ -27,5 +29,7 @@ public class Scene3_prologue : GameFlow
 
         anim.SetBool("Fade", true);
         yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene(prologueScenes);
+
     }
 }
