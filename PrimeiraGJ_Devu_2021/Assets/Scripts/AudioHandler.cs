@@ -22,7 +22,7 @@ public class AudioHandler : MonoBehaviour
     {
         if (collision.CompareTag("PlayerM"))
         {
-            audioSrc.PlayOneShot(audioClip);
+            audioSrc.Play();
         }
     }
 
