@@ -15,6 +15,8 @@ public class StaminaBar : MonoBehaviour
 
     public Vector3 offset = new Vector3(0,0,0);
 
+    public Camera cam;
+
     void Start()
     {
         currentStamina = maxStamina;
@@ -25,7 +27,7 @@ public class StaminaBar : MonoBehaviour
 
     private void Update()
     {
-        slider.transform.position = Camera.main.WorldToScreenPoint(transform.position + offset);
+        slider.transform.position = cam.WorldToScreenPoint(transform.position + offset);
     }
 
     public void UseStamina(float amount)

@@ -6,9 +6,12 @@ using UnityEngine.SceneManagement;
 public class Scene2_prologue : GameFlow
 {
 
-    void Start()
+    public Animator anim;
+
+
+    private void Start()
     {
-        //fade out
+
         prologueScenes++;
     }
 
@@ -22,7 +25,7 @@ public class Scene2_prologue : GameFlow
 
     IEnumerator NextScene()
     {
-        //fade in
+        anim.SetBool("Fade", true);
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(prologueScenes);
 
