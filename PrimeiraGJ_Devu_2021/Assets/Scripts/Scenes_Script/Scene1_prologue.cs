@@ -50,7 +50,7 @@ public class Scene1_prologue : GameFlow
         audioHandler[count].SetActive(true); count++; //carro9
         yield return new WaitForSeconds(3f);
         audioHandler[count].SetActive(true); count++; //carro10
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(10f);
 
         SceneManager.LoadScene(prologueScenes);
     }

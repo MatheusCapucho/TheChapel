@@ -35162,6 +35162,10 @@ PrefabInstance:
       value: EntrarCasa
       objectReference: {fileID: 0}
     - target: {fileID: 8756489591921632699, guid: 6b672e6e56eadf64486117d84f5aa9e6, type: 3}
+      propertyPath: botao
+      value: 119
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756489591921632699, guid: 6b672e6e56eadf64486117d84f5aa9e6, type: 3}
       propertyPath: actions.Array.data[0].m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1380050953}
