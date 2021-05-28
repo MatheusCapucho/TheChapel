@@ -17,8 +17,13 @@ public class Fade : MonoBehaviour
         anim.SetBool("Fade", false);
     }
 
+    public void FadeOut()
+    {
+        anim.SetBool("Fade", false);
+    }
+
     public void FadeIN()
     {
-        anim.SetBool("Fade", true);
+        anim.SetBool("Fade", true);     
     }
 }

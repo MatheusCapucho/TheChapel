@@ -28,32 +28,38 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 4;
                     empty = 1;
+                    break;
                 }
                 if (empty == 2)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 2;
                     empty = 1;
+                    break;
                 }
                 break;
+
             case 2:
                 if (empty == 1)
                 {
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 1;
                     empty = 2;
+                    break;
                 }
                 if (empty == 3)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 3;
                     empty = 2;
+                    break;
                 }
                 if (empty == 5)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 5;
                     empty = 2;
+                    break;
                 }
                 break;
             case 3:
@@ -62,12 +68,14 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 2;
                     empty = 3;
+                    break;
                 }
                 if (empty == 6)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 6;
                     empty = 3;
+                    break;
                 }               
                 break;
             case 4:
@@ -76,18 +84,21 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(0, movement, 0);
                     pos = 1;
                     empty = 4;
+                    break;
                 }
                 if (empty == 5)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 5;
                     empty = 4;
+                    break;
                 }
                 if (empty == 7)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 7;
                     empty = 4;
+                    break;
                 }
                 break;
             case 5:
@@ -96,24 +107,28 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(0, movement, 0);
                     pos = 2;
                     empty = 5;
+                    break;
                 }
                 if (empty == 4)
                 {
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 4;
                     empty = 5;
+                    break;
                 }
                 if (empty == 6)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 6;
                     empty = 5;
+                    break;
                 }
                 if (empty == 8)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 8;
                     empty = 5;
+                    break;
                 }
                 break;
             case 6:
@@ -122,18 +137,21 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 5;
                     empty = 6;
+                    break;
                 }
                 if (empty == 3)
                 {
                     transform.position += new Vector3(0, movement, 0);
                     pos = 3;
                     empty = 6;
+                    break;
                 }
                 if (empty == 9)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 9;
                     empty = 6;
+                    break;
                 }
                 break;
             case 7:
@@ -142,12 +160,14 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(0, movement, 0);
                     pos = 4;
                     empty = 7;
+                    break;
                 }
                 if (empty == 8)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 8;
                     empty = 7;
+                    break;
                 }       
                 break;
             case 8:
@@ -156,18 +176,21 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 7;
                     empty = 8;
+                    break;
                 }
                 if (empty == 5)
                 {
                     transform.position += new Vector3(0, movement, 0);
                     pos = 5;
                     empty = 8;
+                    break;
                 }
                 if (empty == 9)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 9;
                     empty = 8;
+                    break;
                 }
                 break;
             case 9:
@@ -176,12 +199,14 @@ public class PicSlider : MonoBehaviour
                     transform.position += new Vector3(0, movement, 0);
                     pos = 6;
                     empty = 9;
+                    break;
                 }
                 if (empty == 8)
                 {
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 8;
                     empty = 9;
+                    break;
                 }
                 break;
         }
