@@ -45,12 +45,12 @@ public class Scene4_prologue : GameFlow
     {
         audioPlay[count].SetActive(true); count++;
         yield return new WaitForSeconds(7f); //coracao
-        audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(5f); //olhos
 
         animFade.SetBool("Fade", true);
 
-        yield return new WaitForSeconds(3f);
+        audioPlay[count].SetActive(true); count++;
+        yield return new WaitForSeconds(5f); //olhos
+        yield return new WaitForSeconds(1f);
 
         SceneManager.LoadScene(prologueScenes);
 
