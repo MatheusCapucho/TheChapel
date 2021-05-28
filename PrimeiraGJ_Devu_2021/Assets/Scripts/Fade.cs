@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Fade : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class Fade : MonoBehaviour
     }
     void Start()
     {
+        if(SceneManager.GetActiveScene().buildIndex != 5)   
         anim.SetBool("Fade", false);
     }
 
