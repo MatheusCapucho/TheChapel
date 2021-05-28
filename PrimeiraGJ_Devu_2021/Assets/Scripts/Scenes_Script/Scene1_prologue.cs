@@ -5,18 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class Scene1_prologue : GameFlow
 {
-    private Animator anim;
+    public Animator imageFade;
     public GameObject[] audioHandler;
 
-    private int count = 0;
+   // private int count = 0;
 
     private void Awake()
     {
-        anim = GetComponent<Animator>();
+  
     }
     void Start()
     {
         prologueScenes++;
+        
         StartCoroutine(Prologo());
     }
 
@@ -28,7 +29,11 @@ public class Scene1_prologue : GameFlow
         yield return new WaitForSeconds(1f);
 
 
-        yield return new WaitForSeconds (1f);
+        yield return new WaitForSeconds (5f);
+
+        imageFade.SetBool("Fade", true);
+
+        yield return new WaitForSeconds(5f);
 
         SceneManager.LoadScene(prologueScenes);
     }
