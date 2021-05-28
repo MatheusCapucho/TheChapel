@@ -13,27 +13,27 @@ public class Scene4_prologue : GameFlow
     {
         prologueScenes++;
         StartCoroutine(PlayAudios());
+        animFade.SetBool("Fade", true);
     }
 
     IEnumerator PlayAudios()
     {
-        audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(1f); // passos
+        audioPlay[count].SetActive(true);
+        yield return new WaitForSeconds(5f); // passos
+        audioPlay[count].SetActive(false); count++;
 
         audioPlay[count].SetActive(true); count++; 
-        yield return new WaitForSeconds(1f); // porta
+        yield return new WaitForSeconds(5f); // porta
 
         audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(8f); // estranho
+        yield return new WaitForSeconds(5.4f); // estranho
 
         audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(15f); // bem recebida
+        yield return new WaitForSeconds(0.01f); // caderno
+        audioPlay[count].SetActive(true); count++;
+        yield return new WaitForSeconds(23f); //preciso dormir
 
         animFade.SetBool("Fade", false);
-
-        audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(10f); //preciso dormir
-
     }
 
     public void Dormir()
@@ -44,9 +44,9 @@ public class Scene4_prologue : GameFlow
     IEnumerator FuiDormir()
     {
         audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(1f); //coracao
+        yield return new WaitForSeconds(7f); //coracao
         audioPlay[count].SetActive(true); count++;
-        yield return new WaitForSeconds(2f); //olhos
+        yield return new WaitForSeconds(5f); //olhos
 
         animFade.SetBool("Fade", true);
 
