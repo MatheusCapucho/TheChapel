@@ -11,12 +11,4 @@ public class Scene3_prologue : MonoBehaviour
         player = GameObject.Find("Mila_dia");
     }
 
-    
-    public void SentarNoBanco()
-    {
-         
-    }
-
-
-
 }
