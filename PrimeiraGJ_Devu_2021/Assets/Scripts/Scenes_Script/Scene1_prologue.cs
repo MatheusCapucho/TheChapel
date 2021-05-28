@@ -8,7 +8,7 @@ public class Scene1_prologue : GameFlow
     public Animator imageFade;
     public GameObject[] audioHandler;
 
-   // private int count = 0;
+    private int count = 0;
 
     private void Awake()
     {
@@ -23,17 +23,34 @@ public class Scene1_prologue : GameFlow
 
     IEnumerator Prologo()
     {
-        //audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
-        yield return new WaitForSeconds(1f);
-       // audioHandler[count].GetComponent<AudioHandler>().audioSrc.Play(); count++;
-        yield return new WaitForSeconds(1f);
-
-
-        yield return new WaitForSeconds (5f);
-
+        //audioHandler[count].SetActive(true);
+        count++; //mila0
+       // yield return new WaitForSeconds(21.5f);
+        audioHandler[count].SetActive(true); count++; //mila1
+        yield return new WaitForSeconds(21.5f);
+        audioHandler[count].SetActive(true); count++; //mila2
+        yield return new WaitForSeconds(10f);
+        audioHandler[count].SetActive(true); count++; //mila3
+        yield return new WaitForSeconds(5f);
+        audioHandler[count].SetActive(true); count++; //pastor4
+        yield return new WaitForSeconds(26f);
+        audioHandler[count].SetActive(true); count++; //mila5
+        yield return new WaitForSeconds(5f);
+  
         imageFade.SetBool("Fade", true);
 
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(1f);
+
+        audioHandler[count].SetActive(true); count++; //carroo6
+        yield return new WaitForSeconds(2f);
+        audioHandler[count].SetActive(true); count++; //carro7
+        yield return new WaitForSeconds(2f);
+        audioHandler[count].SetActive(true); count++; //mila a pe8
+        yield return new WaitForSeconds(6f);
+        audioHandler[count].SetActive(true); count++; //carro9
+        yield return new WaitForSeconds(3f);
+        audioHandler[count].SetActive(true); count++; //carro10
+        yield return new WaitForSeconds(3f);
 
         SceneManager.LoadScene(prologueScenes);
     }
