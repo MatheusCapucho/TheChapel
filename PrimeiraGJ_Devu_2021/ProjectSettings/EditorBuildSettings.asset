@@ -21,8 +21,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Prologue3_missa.unity
     guid: 38060ccfc17feec47ab8f5b550ead2f0
   - enabled: 1
-    path: Assets/Scenes/Casa_Mila_Noite.unity
-    guid: 6a68dcfe4302a1346ba271d4d4320a6f
+    path: Assets/Scenes/casa_mila_noite_prologue.unity
+    guid: f9292c027039d16408327314d41c7a1a
+  - enabled: 1
+    path: Assets/Scenes/VilaCena4.unity
+    guid: db617ed7ea6be6c46847495bcdd8ff7c
+  - enabled: 1
+    path: "Assets/Scenes/VilaProt\xF3tipo.unity"
+    guid: 356a4cd46b64bf1499c26e1dc23839a0
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729

@@ -1,7 +1,223 @@
 fileFormatVersion: 2
 guid: 1a02559e37d30744fb69dde78764424c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1435646425793350672
+    second: figurantes-Sheet_0
+  - first:
+      213: -475216073902527442
+    second: figurantes-Sheet_1
+  - first:
+      213: -3347574783546556884
+    second: figurantes-Sheet_2
+  - first:
+      213: 6982514999012384716
+    second: figurantes-Sheet_3
+  - first:
+      213: -4679405818548768834
+    second: figurantes-Sheet_4
+  - first:
+      213: 3902023698842544456
+    second: figurantes-Sheet_5
+  - first:
+      213: -2342345241163443516
+    second: figurantes-Sheet_6
+  - first:
+      213: 1207807860612846971
+    second: figurantes-Sheet_7
+  - first:
+      213: -6345894974245653778
+    second: figurantes-Sheet_8
+  - first:
+      213: 1563404293451962675
+    second: figurantes-Sheet_9
+  - first:
+      213: 5661612270126679864
+    second: figurantes-Sheet_10
+  - first:
+      213: 6759406304039579340
+    second: figurantes-Sheet_11
+  - first:
+      213: 8380927627759310838
+    second: figurantes-Sheet_12
+  - first:
+      213: 1051909114789092220
+    second: figurantes-Sheet_13
+  - first:
+      213: -14005301240576682
+    second: figurantes-Sheet_14
+  - first:
+      213: 765707381147471943
+    second: figurantes-Sheet_15
+  - first:
+      213: 8389899455398758876
+    second: figurantes-Sheet_16
+  - first:
+      213: 2175208846133470509
+    second: figurantes-Sheet_17
+  - first:
+      213: 4044357685189861691
+    second: figurantes-Sheet_18
+  - first:
+      213: -418128524640894021
+    second: figurantes-Sheet_19
+  - first:
+      213: -6614196039341783547
+    second: figurantes-Sheet_20
+  - first:
+      213: 2292563130337990696
+    second: figurantes-Sheet_21
+  - first:
+      213: -7014950144191775811
+    second: figurantes-Sheet_22
+  - first:
+      213: -4231787899421739828
+    second: figurantes-Sheet_23
+  - first:
+      213: 3494796663212473539
+    second: figurantes-Sheet_24
+  - first:
+      213: -3732685779932609619
+    second: figurantes-Sheet_25
+  - first:
+      213: -2297394918591819058
+    second: figurantes-Sheet_26
+  - first:
+      213: -4564063320489683971
+    second: figurantes-Sheet_27
+  - first:
+      213: 5258952527933419140
+    second: figurantes-Sheet_28
+  - first:
+      213: -314139526026430173
+    second: figurantes-Sheet_29
+  - first:
+      213: 312752942700947218
+    second: figurantes-Sheet_30
+  - first:
+      213: -5377747364581175614
+    second: figurantes-Sheet_31
+  - first:
+      213: 8867875072768886666
+    second: figurantes-Sheet_32
+  - first:
+      213: -655545198566987715
+    second: figurantes-Sheet_33
+  - first:
+      213: 8637633676632428705
+    second: figurantes-Sheet_34
+  - first:
+      213: 3109077791030772364
+    second: figurantes-Sheet_35
+  - first:
+      213: 8481508104756396040
+    second: figurantes-Sheet_36
+  - first:
+      213: -7776261731756176017
+    second: figurantes-Sheet_37
+  - first:
+      213: 426941074680841587
+    second: figurantes-Sheet_38
+  - first:
+      213: 4019178780172272205
+    second: figurantes-Sheet_39
+  - first:
+      213: -246741634560491478
+    second: figurantes-Sheet_40
+  - first:
+      213: 7823397560574720875
+    second: figurantes-Sheet_41
+  - first:
+      213: -2900926973511937426
+    second: figurantes-Sheet_42
+  - first:
+      213: -2306400832758874778
+    second: figurantes-Sheet_43
+  - first:
+      213: 955568977281640239
+    second: figurantes-Sheet_44
+  - first:
+      213: -8223837932970453970
+    second: figurantes-Sheet_45
+  - first:
+      213: -8661758751142419060
+    second: figurantes-Sheet_46
+  - first:
+      213: 5037324272467109135
+    second: figurantes-Sheet_47
+  - first:
+      213: 2494723138377575559
+    second: figurantes-Sheet_48
+  - first:
+      213: 2807177755553427640
+    second: figurantes-Sheet_49
+  - first:
+      213: -5512891694856199498
+    second: figurantes-Sheet_50
+  - first:
+      213: 1622872479219187047
+    second: figurantes-Sheet_51
+  - first:
+      213: 6370253945145351990
+    second: figurantes-Sheet_52
+  - first:
+      213: -3830619657954066158
+    second: figurantes-Sheet_53
+  - first:
+      213: 6059750119016890017
+    second: figurantes-Sheet_54
+  - first:
+      213: 3215119033510386663
+    second: figurantes-Sheet_55
+  - first:
+      213: 8914820140898112708
+    second: figurantes-Sheet_56
+  - first:
+      213: -8830092642359361153
+    second: figurantes-Sheet_57
+  - first:
+      213: -5133463026868691793
+    second: figurantes-Sheet_58
+  - first:
+      213: -1796891819663132356
+    second: figurantes-Sheet_59
+  - first:
+      213: 3992338200656570015
+    second: figurantes-Sheet_60
+  - first:
+      213: -5508792314029372831
+    second: figurantes-Sheet_61
+  - first:
+      213: 8888286736335595776
+    second: figurantes-Sheet_62
+  - first:
+      213: -8708948750405306137
+    second: figurantes-Sheet_63
+  - first:
+      213: 2068332067985762021
+    second: figurantes-Sheet_64
+  - first:
+      213: -7386075396335963533
+    second: figurantes-Sheet_65
+  - first:
+      213: 6893974379724102431
+    second: figurantes-Sheet_66
+  - first:
+      213: -6748880526765969679
+    second: figurantes-Sheet_67
+  - first:
+      213: -6416415950103421060
+    second: figurantes-Sheet_68
+  - first:
+      213: -6003252628274682614
+    second: figurantes-Sheet_69
+  - first:
+      213: -8182339610638670644
+    second: figurantes-Sheet_70
+  - first:
+      213: -613342269641226439
+    second: figurantes-Sheet_71
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +248,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +257,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +291,1533 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: figurantes-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc87061d07ce310800000000000000
+      internalID: 1435646425793350672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ceb73af71b769f0800000000000000
+      internalID: -475216073902527442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef6a778760b81d0800000000000000
+      internalID: -3347574783546556884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf58fa8560e6e060800000000000000
+      internalID: 6982514999012384716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf218953396f0fb0800000000000000
+      internalID: -4679405818548768834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8496aaa51e5c62630800000000000000
+      internalID: 3902023698842544456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25027d9615e7fd0800000000000000
+      internalID: -2342345241163443516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 387
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d0c899def2c010800000000000000
+      internalID: 1207807860612846971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2b626942adee7a0800000000000000
+      internalID: -6345894974245653778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339568febe352b510800000000000000
+      internalID: 1563404293451962675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c4e8fc56129e40800000000000000
+      internalID: 5661612270126679864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea0dc783c3ecd50800000000000000
+      internalID: 6759406304039579340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d9dcf5490f4470800000000000000
+      internalID: 8380927627759310838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bdff244c1299e00800000000000000
+      internalID: 1051909114789092220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554592b04e3ecff0800000000000000
+      internalID: -14005301240576682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 344
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74090376ec650aa00800000000000000
+      internalID: 765707381147471943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd949446a19ee6470800000000000000
+      internalID: 8389899455398758876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a21abbe4ef2e10800000000000000
+      internalID: 2175208846133470509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ec5203e1702830800000000000000
+      internalID: 4044357685189861691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3425a7252823af0800000000000000
+      internalID: -418128524640894021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506cc38eeb7a534a0800000000000000
+      internalID: -6614196039341783547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 301
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82814f04502d0df10800000000000000
+      internalID: 2292563130337990696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbbf5ab204e5ae90800000000000000
+      internalID: -7014950144191775811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4bb22935ba545c0800000000000000
+      internalID: -4231787899421739828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccfff88c03008030800000000000000
+      internalID: 3494796663212473539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da307fc4f06d23cc0800000000000000
+      internalID: -3732685779932609619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21c806e730e10e0800000000000000
+      internalID: -2297394918591819058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df392d9679039a0c0800000000000000
+      internalID: -4564063320489683971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e2d16067d8bf840800000000000000
+      internalID: 5258952527933419140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f845f3c3f3abf0800000000000000
+      internalID: -314139526026430173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e524f42f175400800000000000000
+      internalID: 312752942700947218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8852b3476e55b0800000000000000
+      internalID: -5377747364581175614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874ee80565011b70800000000000000
+      internalID: 8867875072768886666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a3397d1907e6f0800000000000000
+      internalID: -655545198566987715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a090a3901a0fd770800000000000000
+      internalID: 8637633676632428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82027147c9a52b20800000000000000
+      internalID: 3109077791030772364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8000a9f2fae54b570800000000000000
+      internalID: 8481508104756396040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 215
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8536c72b251490800000000000000
+      internalID: -7776261731756176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375006835accce500800000000000000
+      internalID: 426941074680841587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c4f85ecdf6c730800000000000000
+      internalID: 4019178780172272205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2009b86ac5639cf0800000000000000
+      internalID: -246741634560491478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb6b691aa429c60800000000000000
+      internalID: 7823397560574720875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d8709946ddb7d0800000000000000
+      internalID: -2900926973511937426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 172
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dfdb599a40effd0800000000000000
+      internalID: -2306400832758874778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2761490cecd24d00800000000000000
+      internalID: 955568977281640239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d9e2c8fe0fdd80800000000000000
+      internalID: -8223837932970453970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85660cce404bc780800000000000000
+      internalID: -8661758751142419060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ead6acbb28e540800000000000000
+      internalID: 5037324272467109135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c61fb0a790f9220800000000000000
+      internalID: 2494723138377575559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f32dab4915f620800000000000000
+      internalID: 2807177755553427640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b225ea46364e73b0800000000000000
+      internalID: -5512891694856199498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 129
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dfd97ebe9958610800000000000000
+      internalID: 1622872479219187047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5b694630b76850800000000000000
+      internalID: 6370253945145351990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211050277b7e6dac0800000000000000
+      internalID: -3830619657954066158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef1a790ae881450800000000000000
+      internalID: 6059750119016890017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebdbfef9b56e9c20800000000000000
+      internalID: 3215119033510386663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4dab67fadc7bb70800000000000000
+      internalID: 8914820140898112708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71416e8685357580800000000000000
+      internalID: -8830092642359361153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd3e7439642c8b0800000000000000
+      internalID: -5133463026868691793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397c2d09682017e0800000000000000
+      internalID: -1796891819663132356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f966b51f072a76730800000000000000
+      internalID: 3992338200656570015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a80e4c396dc83b0800000000000000
+      internalID: -5508792314029372831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009691dc1b9895b70800000000000000
+      internalID: 8888286736335595776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87205e049932780800000000000000
+      internalID: -8708948750405306137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e627ddae0134bc10800000000000000
+      internalID: 2068332067985762021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37274256f836f7990800000000000000
+      internalID: -7386075396335963533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b591a2c215caf50800000000000000
+      internalID: 6893974379724102431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe20920be82752a0800000000000000
+      internalID: -6748880526765969679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5fe260bf44f6a0800000000000000
+      internalID: -6416415950103421060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e1ca8a8920bca0800000000000000
+      internalID: -6003252628274682614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4264cd97d727e80800000000000000
+      internalID: -8182339610638670644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: figurantes-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378d449478fc77f0800000000000000
+      internalID: -613342269641226439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
