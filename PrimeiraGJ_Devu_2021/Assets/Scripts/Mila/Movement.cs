@@ -12,8 +12,6 @@ public class Movement : MonoBehaviour
     [SerializeField]
     public float runSpeed = 6f;
     private float actualSpeed;
-    [SerializeField]
-    private float custoStamina = 2f;
 
     private Vector3 input;
 
@@ -22,13 +20,10 @@ public class Movement : MonoBehaviour
 
     private Animator anim;
 
-    private StaminaBar staminaBar;
-
     private AudioSource footstep;//Rezende
 
     void Start()
     {
-        staminaBar = GetComponent<StaminaBar>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         actualSpeed = speed;
@@ -45,11 +40,11 @@ public class Movement : MonoBehaviour
     {
         input = new Vector3(Input.GetAxisRaw("Horizontal"), 0, 0);
 
-        if (canRun && staminaBar.currentStamina > 0 && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
+        if (canRun && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
         {
             actualSpeed = runSpeed;
             anim.SetBool("isRunning", true);
-            staminaBar.UseStamina(custoStamina);        
+                
         } else
         {
             actualSpeed = speed;
