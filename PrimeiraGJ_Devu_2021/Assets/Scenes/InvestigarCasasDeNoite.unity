@@ -1686,6 +1686,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1601483602382734366, guid: 97b1589a9ec371c498136fe208325b1c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6284463731230184998, guid: 97b1589a9ec371c498136fe208325b1c, type: 3}
       propertyPath: m_Name
       value: MANIACO_npc
@@ -2310,7 +2314,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5010597241579965475, guid: 7e52ed742c650ea40804db33b576e15a, type: 3}
       propertyPath: m_SortingOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5010597241579965477, guid: 7e52ed742c650ea40804db33b576e15a, type: 3}
       propertyPath: m_Name
@@ -38056,7 +38060,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7179641631406957846, guid: b98628a2b5102b84ea09b4dc8b4d2478, type: 3}
       propertyPath: m_SortingOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7179641631406957847, guid: b98628a2b5102b84ea09b4dc8b4d2478, type: 3}
       propertyPath: m_RootOrder

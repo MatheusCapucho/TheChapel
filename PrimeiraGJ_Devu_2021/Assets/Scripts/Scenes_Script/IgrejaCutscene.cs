@@ -15,7 +15,7 @@ public class IgrejaCutscene : GameFlow
 
     IEnumerator Next(float i)
     {
-        prologueScenes++;
+        prologueScenes = 8;
         yield return new WaitForSeconds(i);
         anim.SetBool("Fade", true);
         yield return new WaitForSeconds(1f);

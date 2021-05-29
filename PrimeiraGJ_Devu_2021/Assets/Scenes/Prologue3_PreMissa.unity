@@ -48726,6 +48726,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1601483602382734366, guid: 97b1589a9ec371c498136fe208325b1c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6284463731230184998, guid: 97b1589a9ec371c498136fe208325b1c, type: 3}
       propertyPath: m_Name
       value: MANIACO_npc
