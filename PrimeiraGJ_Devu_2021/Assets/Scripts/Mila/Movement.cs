@@ -24,6 +24,7 @@ public class Movement : MonoBehaviour
 
     private StaminaBar staminaBar;
 
+    private AudioSource footstep;//Rezende
 
     void Start()
     {
@@ -31,6 +32,7 @@ public class Movement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         actualSpeed = speed;
+        footstep = GetComponent<AudioSource>();//Rezende
 
         if (this.gameObject.CompareTag("Player"))
         {
@@ -81,6 +83,11 @@ public class Movement : MonoBehaviour
         scale.x *= -1;
         transform.localScale = scale;
 
+    }
+
+    private void Footstep()//Rezende
+    {
+        footstep.Play();
     }
 
 }
