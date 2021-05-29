@@ -49780,50 +49780,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 962552104, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.29
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552104, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.57
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552104, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9994758
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552104, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.03237504
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_Color.b
-      value: 0.46818262
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_Color.g
-      value: 0.52609074
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_Color.r
-      value: 0.5943396
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_Intensity
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_PointLightInnerAngle
-      value: 360
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_PointLightOuterAngle
-      value: 360
-      objectReference: {fileID: 0}
-    - target: {fileID: 962552105, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
-      propertyPath: m_PointLightOuterRadius
-      value: 1.647156
-      objectReference: {fileID: 0}
     - target: {fileID: 1348715985573344784, guid: 3ab124c3195066648b9e23ee475d8e53, type: 3}
       propertyPath: m_Name
       value: Mila_lamparina
