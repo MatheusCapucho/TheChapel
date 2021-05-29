@@ -221,9 +221,8 @@ public class PicSlider : GameFlow
 
         yield return new WaitForSeconds(30f);
         olhoVermelho = true;
-        this.gameObject.transform.parent.gameObject.GetComponent<SpriteRenderer>().enabled = false;
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(missaVelha);
+        SceneManager.LoadScene("Capela_final");
     }
 
 }

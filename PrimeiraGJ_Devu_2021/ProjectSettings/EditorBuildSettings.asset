@@ -47,6 +47,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CasasDeNoite_semNPC.unity
     guid: cadddf8fb2b4f354bb20131779867cf7
+  - enabled: 1
+    path: Assets/Scenes/Capela_final.unity
+    guid: 942d995020f9f6e4fab73ac1a148f460
+  - enabled: 1
+    path: Assets/Scenes/FinalCorrendo.unity
+    guid: e5a52c5c0167a07419ec28c0497781da
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: d6c3f5c5c8db6e74ab2848619dacc0db
   - enabled: 0
     path: "Assets/Scenes/VilaProt\xF3tipo.unity"
     guid: 356a4cd46b64bf1499c26e1dc23839a0

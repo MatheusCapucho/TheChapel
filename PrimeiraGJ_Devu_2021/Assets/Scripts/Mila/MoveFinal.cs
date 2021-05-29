@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class MoveFinal : MonoBehaviour
 {
-
     private Rigidbody2D rb;
 
     [SerializeField]
@@ -43,22 +42,23 @@ public class Movement : MonoBehaviour
         if (canRun && Input.GetKey(KeyCode.LeftShift) && input.x != 0)
         {
             actualSpeed = runSpeed;
-            anim.SetBool("isRunning", true);
-                
-        } else
+            //anim.SetBool("isRunning", true);
+
+        }
+        else
         {
             actualSpeed = speed;
-            anim.SetBool("isRunning", false);
+            //anim.SetBool("isRunning", false);
         }
- 
+
     }
 
     private void FixedUpdate()
     {
         transform.position += input * actualSpeed * Time.fixedDeltaTime;
-       
 
-        anim.SetInteger("xInput", Mathf.Abs((int)input.x));
+
+        //anim.SetInteger("xInput", Mathf.Abs((int)input.x));
 
         if (input.x < 0 && isFacingRight)
         {
@@ -84,5 +84,4 @@ public class Movement : MonoBehaviour
     {
         footstep.Play();
     }
-
 }

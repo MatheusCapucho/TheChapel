@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Tochas : MonoBehaviour
 {
@@ -22,7 +23,7 @@ public class Tochas : MonoBehaviour
             tochasAcesas++;
             if (tochasAcesas == 4)
             {
-                Debug.Log("Venci");
+                SceneManager.LoadScene("Capela_final");
                 VenceuAsTochas();
             }
         }
