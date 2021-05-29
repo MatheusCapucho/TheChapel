@@ -29,6 +29,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IgrejaCutscene.unity
     guid: 3eeb85ca43c4dfd488db17a24f8f9601
+  - enabled: 1
+    path: Assets/Scenes/MilaVoltandoPraCasa_Cena4.unity
+    guid: a461361527670394183f1f724f79fe85
+  - enabled: 1
+    path: Assets/Scenes/InvestigarCasasDeNoite.unity
+    guid: f60bca70071af4c439cf553dd3d26c6e
+  - enabled: 1
+    path: Assets/Scenes/CasaCharada.unity
+    guid: 8057a3d9a64daa345aa3ac751241c868
+  - enabled: 1
+    path: Assets/Scenes/CasaPicSlider.unity
+    guid: f3818d5df23562043a4c59dbe76cbcee
+  - enabled: 1
+    path: Assets/Scenes/CasaTocha.unity
+    guid: adc890bf2c95ccb419bd98d9b7a4a1c1
+  - enabled: 1
+    path: Assets/Scenes/CasasDeNoite_semNPC.unity
+    guid: cadddf8fb2b4f354bb20131779867cf7
   - enabled: 0
     path: "Assets/Scenes/VilaProt\xF3tipo.unity"
     guid: 356a4cd46b64bf1499c26e1dc23839a0

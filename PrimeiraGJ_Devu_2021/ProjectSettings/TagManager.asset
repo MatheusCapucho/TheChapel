@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PlayerM
   - Wall
+  - Igreja
   layers:
   - Default
   - TransparentFX
