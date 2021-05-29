@@ -28,7 +28,7 @@ public class Scene3_prologue : GameFlow
     {
 
         anim.SetBool("Fade", true);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(2f);
         SceneManager.LoadScene(prologueScenes);
 
     }
