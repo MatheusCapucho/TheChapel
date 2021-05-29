@@ -246,6 +246,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+--- !u!1001 &141732618
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -43.05164
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.3047823
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.09756
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961330, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689152284318961331, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
+      propertyPath: m_Name
+      value: Audio Cena Final
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0cb4f3a08d2bae84fbdc52ab1cd669be, type: 3}
 --- !u!1 &166371868
 GameObject:
   m_ObjectHideFlags: 0
