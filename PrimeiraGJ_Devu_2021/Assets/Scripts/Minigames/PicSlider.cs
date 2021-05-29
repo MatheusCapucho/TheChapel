@@ -1,21 +1,25 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class PicSlider : MonoBehaviour
+public class PicSlider : GameFlow
 {
 
     public int pos;
     public static int empty = 9;
 
     private Vector3 goPos;
-    private float movement = 4;
-
-
+    private float movement = 1;
 
     private void Start()
     {
         goPos = this.gameObject.transform.position; // fazer: 
+    }
+
+    public void NaoConseguiFazerUmFimProPuzzle()
+    {
+        StartCoroutine(Migue());
     }
 
     public void MovePic()
@@ -30,7 +34,7 @@ public class PicSlider : MonoBehaviour
                     empty = 1;
                     break;
                 }
-                if (empty == 2)
+                else if (empty == 2)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 2;
@@ -47,14 +51,14 @@ public class PicSlider : MonoBehaviour
                     empty = 2;
                     break;
                 }
-                if (empty == 3)
+                else if(empty == 3)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 3;
                     empty = 2;
                     break;
                 }
-                if (empty == 5)
+                else if(empty == 5)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 5;
@@ -70,7 +74,7 @@ public class PicSlider : MonoBehaviour
                     empty = 3;
                     break;
                 }
-                if (empty == 6)
+                else if(empty == 6)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 6;
@@ -86,14 +90,14 @@ public class PicSlider : MonoBehaviour
                     empty = 4;
                     break;
                 }
-                if (empty == 5)
+                else if(empty == 5)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 5;
                     empty = 4;
                     break;
                 }
-                if (empty == 7)
+                else if(empty == 7)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 7;
@@ -109,21 +113,21 @@ public class PicSlider : MonoBehaviour
                     empty = 5;
                     break;
                 }
-                if (empty == 4)
+                else if(empty == 4)
                 {
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 4;
                     empty = 5;
                     break;
                 }
-                if (empty == 6)
+                else if(empty == 6)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 6;
                     empty = 5;
                     break;
                 }
-                if (empty == 8)
+                else if(empty == 8)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 8;
@@ -139,14 +143,14 @@ public class PicSlider : MonoBehaviour
                     empty = 6;
                     break;
                 }
-                if (empty == 3)
+                else if(empty == 3)
                 {
                     transform.position += new Vector3(0, movement, 0);
                     pos = 3;
                     empty = 6;
                     break;
                 }
-                if (empty == 9)
+                else if(empty == 9)
                 {
                     transform.position += new Vector3(0, -movement, 0);
                     pos = 9;
@@ -162,7 +166,7 @@ public class PicSlider : MonoBehaviour
                     empty = 7;
                     break;
                 }
-                if (empty == 8)
+                else if(empty == 8)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 8;
@@ -178,14 +182,14 @@ public class PicSlider : MonoBehaviour
                     empty = 8;
                     break;
                 }
-                if (empty == 5)
+                else if(empty == 5)
                 {
                     transform.position += new Vector3(0, movement, 0);
                     pos = 5;
                     empty = 8;
                     break;
                 }
-                if (empty == 9)
+                else if(empty == 9)
                 {
                     transform.position += new Vector3(movement, 0, 0);
                     pos = 9;
@@ -201,7 +205,7 @@ public class PicSlider : MonoBehaviour
                     empty = 9;
                     break;
                 }
-                if (empty == 8)
+                else if(empty == 8)
                 {
                     transform.position += new Vector3(-movement, 0, 0);
                     pos = 8;
@@ -210,6 +214,15 @@ public class PicSlider : MonoBehaviour
                 }
                 break;
         }
+    }
+
+    IEnumerator Migue()
+    {
+
+        yield return new WaitForSeconds(30f);
+        olhoVermelho = true;
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Capela_final");
     }
 
 }

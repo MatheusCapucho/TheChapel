@@ -23,9 +23,8 @@ public class TextInput : GameFlow
     {
         if (input.text == resposta || input.text == resposta2)
         {
-            sceneAfterMinigame++;
-            olhoAmarelo = true;
-            StartCoroutine(MudarCena(sceneAfterMinigame));
+           
+            StartCoroutine(MudarCena());
         }
         else
         {
@@ -34,17 +33,13 @@ public class TextInput : GameFlow
     }
 
 
-    private IEnumerator MudarCena(int scene)
+    private IEnumerator MudarCena()
     {
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1f);
 
-        // fadein
+        
 
-        //mila fala alguma besteira
-
-        //yield return new WaitForSeconds(tempo da fala da mina + 1f);
-
-        SceneManager.LoadScene(scene);   
+        SceneManager.LoadScene("Capela_final");   
 
     }
 
