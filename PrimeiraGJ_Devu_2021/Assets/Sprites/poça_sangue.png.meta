@@ -1,16 +1,7 @@
 fileFormatVersion: 2
-guid: 7c9d04ad3f43302448d5fd2f0618e1e8
+guid: 51d128c09cf2f7748a9bf1b355ccc2b6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -5509283649742010026
-    second: menu_botoes_escuro_0
-  - first:
-      213: -4413351100083863274
-    second: menu_botoes_escuro_1
-  - first:
-      213: 6355318229501176341
-    second: menu_botoes_escuro_2
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -50,7 +41,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -98,70 +89,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: menu_botoes_escuro_0
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 26
-        width: 34
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6598242c5b71b83b0800000000000000
-      internalID: -5509283649742010026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: menu_botoes_escuro_1
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 13
-        width: 48
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6110c62be80a0c2c0800000000000000
-      internalID: -4413351100083863274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: menu_botoes_escuro_2
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 0
-        width: 26
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51a6bfff140a23850800000000000000
-      internalID: 6355318229501176341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []

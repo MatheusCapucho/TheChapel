@@ -17,6 +17,11 @@ public class Scene4 : GameFlow
         StartCoroutine(Next());
     }
 
+    public void fade()
+    {
+        anim.SetBool("Fade", true);
+    }
+
     IEnumerator Next()
     {
         anim.SetBool("Fade", true);
