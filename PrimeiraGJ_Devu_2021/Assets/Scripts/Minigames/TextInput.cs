@@ -6,8 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class TextInput : GameFlow
 {
-    private string resposta = "Obcessão";
-    private string resposta2 = "obcessão";
+    private string resposta = "Obsessão";
+    private string resposta2 = "obsessão";
     private InputField input;
 
     public GameObject canvas;
